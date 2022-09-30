@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Klee from Benny Adventure Team
+- 👀 I’m interested in Core of Computer Science, and Mathematics
+- 🌱 I’m currently learning Python
